@@ -1,4 +1,4 @@
-# Laba_Java_Galieva__Gulia
+# Laba№1_Java_Galieva__Gulia
 
 Лабараторная №1 Галиева Гулия ИТ-6 Вариант 1
 
